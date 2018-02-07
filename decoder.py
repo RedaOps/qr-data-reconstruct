@@ -6,7 +6,6 @@ import cv2;
 import os;
 import numpy as np;
 import progressbar;
-import base64;
 
 parser = argparse.ArgumentParser(description="QR Code data reconstructor - made by Tudor Gheorghiu, Prodicode");
 parser.add_argument("video", help="Video file containing QR codes",
