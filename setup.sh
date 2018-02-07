@@ -10,7 +10,6 @@ sudo pip install pillow
 sudo pip install qrtools
 sudo pip install argparse
 sudo pip install progressbar
-sudo pip install base64
 
 cat << "EOF"
 _____                   _
