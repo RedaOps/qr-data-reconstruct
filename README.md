@@ -9,7 +9,7 @@ To install all dependencies, I have made a simple bash script to do it. It works
 git clone https://github.com/Prodicode/qr-data-reconstruct.git
 cd qr-data-reconstruct
 chmod a+x setup.sh
-sudo setup.sh
+./setup.sh
  ```
 
 Then, you can just run it using python. Use the ```-h``` argument for help: ```python decoder.py -h```. Usage example:
