@@ -1,5 +1,6 @@
 echo "Installing python openCV"
 
+sudo apt-get install libzbar-dev
 sudo pip install opencv-python
 
 echo "Installing dependencies..."
